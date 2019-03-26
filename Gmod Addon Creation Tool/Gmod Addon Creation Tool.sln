@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gmod Addon Creation Tool", "Gmod Addon Creation Tool\Gmod Addon Creation Tool.csproj", "{26786B1C-6A02-4063-97BA-B969D50905CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26786B1C-6A02-4063-97BA-B969D50905CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26786B1C-6A02-4063-97BA-B969D50905CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26786B1C-6A02-4063-97BA-B969D50905CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26786B1C-6A02-4063-97BA-B969D50905CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6221E670-5851-4C41-8BC2-8277AE727B96}
+	EndGlobalSection
+EndGlobal
