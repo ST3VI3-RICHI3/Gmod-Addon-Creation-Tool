@@ -1,0 +1,10 @@
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\bin\Debug\Gmod Addon Creation Tool.exe.config
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\bin\Debug\Gmod Addon Creation Tool.exe
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\bin\Debug\Gmod Addon Creation Tool.pdb
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod Addon Creation Tool.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod_Addon_Creation_Tool.NewProjectWindow.resources
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod_Addon_Creation_Tool.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod Addon Creation Tool.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod Addon Creation Tool.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod Addon Creation Tool.exe
+C:\Users\Alex\Documents\GitHub\Gmod-Addon-Creation-Tool\Gmod Addon Creation Tool\Gmod Addon Creation Tool\obj\Debug\Gmod Addon Creation Tool.pdb
